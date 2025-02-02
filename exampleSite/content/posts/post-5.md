@@ -31,7 +31,7 @@ Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi
 
 ## Typography
 
-Lid est laborum et dolorum fuga, This is [an example](http://example.com/ "Title") inline link. Et harum quidem rerum facilis, **This is bold** and *emphasis* cumque nihilse impedit quo minus id quod amets untra dolor amet sad. While this is `code block()` and following is a `pre` tag
+Lid est laborum et dolorum fuga, This is [an example](http://archsyscall.github.io/ "Title") inline link. Et harum quidem rerum facilis, **This is bold** and *emphasis* cumque nihilse impedit quo minus id quod amets untra dolor amet sad. While this is `code block()` and following is a `pre` tag
 
 	print 'this is pre tag'
 
